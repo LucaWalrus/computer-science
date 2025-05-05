@@ -1,9 +1,9 @@
-<h3>Open Source Society University</h3>
+<div style="text-align: center;">
+  <h3>Open Source Society University</h3>
 
   <a href="https://github.com/ossu/computer-science">
-    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"
-  ></a>
-</p>
+    <img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg">
+  </a>
 </div>
 
 # Contents
